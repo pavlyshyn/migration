@@ -11,5 +11,10 @@
     ],
     "require": {
         "pavlyshyn/orm": "0.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pavlyshyn\\": "src/"
+        }
     }
 }
