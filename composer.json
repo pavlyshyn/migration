@@ -1,0 +1,15 @@
+{
+    "name": "pavlyshyn/migration",
+    "version": "0.0.0",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Roma Pavlyshyn",
+            "homepage": "http://pavlyshyn.com",
+            "email": "roman@pavlyshyn.com"
+        }
+    ],
+    "require": {
+        "pavlyshyn/orm": "0.2.*"
+    }
+}
